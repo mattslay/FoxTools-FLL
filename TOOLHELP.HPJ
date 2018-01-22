@@ -1,0 +1,13 @@
+[OPTIONS]
+LCID=0x409 0x0 0x0
+COMPRESS=0
+
+[WINDOWS]
+main="Extended Foxtools Help",(18,10,600,435),27904,,,f2
+
+[CONFIG]
+BrowseButtons()
+
+[FILES]
+TOOLHELP.RTF
+
