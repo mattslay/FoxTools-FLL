@@ -2,6 +2,8 @@
 
 In this repo, we have extracted the Help info for FoxTools.fll from the old ToolHelp.hlp file originally created by George Tasker and posted to Universal Thread (now Level Extreme) at this link: https://www.levelextreme.com/ShowHeaderDownloadOneItem.aspx?ID=9333 way back in February 1998.
 
+* NOTE: This documentation is not yet completely extracted from the HLP file... It is, for now, only extracted lists of function names and categories. I will complete the remaining extraction of all the documentation in the future.
+
 # Extended Foxtools Help
 
 A complete, cross-referenced, comprehensive help file containing all the functions in the FOXTOOLS.FLL library for Visual FoxPro for Windows. Includes a number of samples as to how to use the functions.
