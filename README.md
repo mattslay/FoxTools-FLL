@@ -1,6 +1,6 @@
 # FoxTools.FLL Documentation
 
-In this repo, I we will extract the Help info for FoxTools.fll from the old ToolHelp.hlp file originally created by George Tasker and posted to Universal Thread (now Level Extreme) at this link: https://www.levelextreme.com/ShowHeaderDownloadOneItem.aspx?ID=9333 way back in February 1998.
+In this repo, we have extracted the Help info for FoxTools.fll from the old ToolHelp.hlp file originally created by George Tasker and posted to Universal Thread (now Level Extreme) at this link: https://www.levelextreme.com/ShowHeaderDownloadOneItem.aspx?ID=9333 way back in February 1998.
 
 # Extended Foxtools Help
 
