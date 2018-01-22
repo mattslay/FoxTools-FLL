@@ -36,7 +36,7 @@ Joshua D. Weiss of Boston Microcomputer Consulting, for providing the informatio
 
 Christof Lange, The Foxpert!, for information on a documentation source for the functions _WsockStartUp(), _WSockGetHostByAddr(), and _WSockCleanUp(). Christof also provided additional information for the last element of the array populated by _EdGetEnv(). Further, Christof’s feedback on one of his projects led directly to the section entitled, “Invalid whandles” and additional information on _EdGetLNum() and _EdGetLPos(). My thanks to him for his continuing feedback and support of this project. Most recently he has provided information regarding problems with _EGetEnv(). His continued support of this project is greatly appreciated.
 
-## KAlphabetical Function List
+## Alphabetical Function List
 AddBS  
 CallFN  
 CleanPath  
